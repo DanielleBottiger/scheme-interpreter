@@ -1,2 +1,2 @@
 # Scheme Interpreter
-This scheme interpreter was created by Danielle Bottiger and Peter McCrea using C. It was the final project for CS251: Programming Language Design and Implementation in the Fall 2020 trimester.
+This scheme interpreter was created by Danielle Bottiger and Peter McCrea using C. It was the final project for CS251: Programming Language Design and Implementation in the Fall 2020 trimester. 
