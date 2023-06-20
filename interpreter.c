@@ -335,9 +335,6 @@ Value *evalLetStar(Value *args, Frame *frame)
   return eval(firstCode, frame);
 }
 
-/*
- NOTE: Not completely functional. Causes 3 test cases are failing. The rest of the tests are passing.
-*/
 Value *evalLetRec(Value *args, Frame *frame)
 {
   Value *parameters = args->c.car; // parameters
